@@ -1,4 +1,4 @@
-# NSFWValidator
+# NSFW Validator
 The mobile application was developed to help users handle the sensitive pictures within it by filtering inappropriate or sexual content.
 
 | No. | Screen Shot | Description |
