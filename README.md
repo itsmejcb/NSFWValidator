@@ -8,22 +8,6 @@ This Kotlin project provides an NSFW (Not Safe For Work) validator to filter out
 - Provides a simple API for image validation.
 - Can be integrated with Android applications.
 
-## Requirements
-
-- Kotlin 1.4+
-- Android Studio 4.1+
-- TensorFlow Lite (for machine learning model)
-
-## Getting Started
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- You have installed Android Studio.
-- You have a Kotlin development environment set up.
-- You have a pre-trained NSFW detection model in TensorFlow Lite format.
-
 ## Download
 
  [AAB](./Build/NSFWValidator.aab)
