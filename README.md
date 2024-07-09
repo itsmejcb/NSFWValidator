@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 - You have a Kotlin development environment set up.
 - You have a pre-trained NSFW detection model in TensorFlow Lite format.
 
-## Installation
+## Download
 
  [AAB](./Build/NSFWValidator.aab)
  [APK](./Build/NSFWValidator.apk)
