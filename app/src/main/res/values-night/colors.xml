@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#263238</color> <!-- Dark Mode Primary Color -->
+    <color name="colorPrimaryDark">#1E1E1E</color> <!-- Darker Shade of Dark Mode Primary Color -->
+    <color name="colorAccent">#ffd700</color> <!-- Dark Mode Accent Color -->
+    <color name="colorControlHighlight">#1E1E1E</color> <!-- Dark Mode Control Highlight Color -->
+    <color name="colorControlNormal">#101010</color> <!-- Dark Mode Normal Control Color -->
+    <color name="backgroundColor">#202124</color> <!-- Dark Background Color (Dark Gray/Black) -->
+    <color name="ImageBackgroundColor">#FFFFFF</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="BackgroundColor">#333333</color>
+    <color name="gold">#FFD700</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="off_color">#a1000000</color>
+    <color name="on_color">@color/gold</color>
+    <color name="charlestonGreen">#FF292929</color>
+    <color name="transparent">#00000000</color>
+</resources>

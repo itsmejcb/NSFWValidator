@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="grid_spacing">2dp</dimen>
+    <dimen name="grid_spacing1">8dp</dimen>
+    <dimen name="sticky_header_height">56dp</dimen>
+    <dimen name="popup_elevation">5dp</dimen>
+</resources>

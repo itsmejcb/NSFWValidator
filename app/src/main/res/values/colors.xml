@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008DCD</color> <!-- Primary Color -->
+    <color name="colorPrimaryDark">#0084C2</color> <!-- Darker Shade of Primary Color -->
+    <color name="colorAccent">#008DCD</color> <!-- Accent Color -->
+    <color name="colorControlHighlight">#008DCD</color> <!-- Control Highlight Color -->
+    <color name="colorControlNormal">#57BEEE</color> <!-- Normal Control Color -->
+    <color name="backgroundColor">#FFFFFF</color> <!-- Background Color (White) -->
+    <color name="ImageBackgroundColor">#202124</color>
+    <color name="BackgroundColor">#EEEEEE</color>
+    <color name="textColor">#292929</color>
+    <color name="gold">#FFD700</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="grey">#EEEEEE</color>
+    <color name="off_color">#a1000000</color>
+    <color name="on_color">@color/gold</color>
+    <color name="charlestonGreen">#FF292929</color>
+    <color name="transparent">#00000000</color>
+</resources>

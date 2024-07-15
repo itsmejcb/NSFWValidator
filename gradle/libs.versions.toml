@@ -1,0 +1,68 @@
+[versions]
+agp = "8.4.1"
+kotlin = "1.9.0"
+coreKtx = "1.13.1"
+junit = "4.13.2"
+junitVersion = "1.2.1"
+espressoCore = "3.6.1"
+appcompat = "1.7.0"
+material = "1.12.0"
+activity = "1.9.0"
+constraintlayout = "2.1.4"
+imageLabeling = "17.0.8"
+imageLabelingCommon = "18.1.0"
+imageLabelingCustom = "17.0.2"
+imageLabelingCustomCommon = "17.0.0"
+imageLabelingDefaultCommon = "17.0.0"
+swiperefreshlayout = "1.2.0-alpha01"
+picassoTransformations = "2.4.0"
+picasso = "2.71828"
+okhttp3 = "4.3.0"
+gson = "2.11.0"
+retrofit2Rxjava2Adapter = "1.0.0"
+rxandroid = "2.1.1"
+rxjava = "2.2.21"
+adapterRxjava2 = "2.11.0"
+loggingInterceptor = "5.0.0-alpha.14"
+lifecycleExtensions = "2.2.0"
+retrofit = "2.11.0"
+converterGson = "2.11.0"
+shimmer = "0.5.0"
+palette = "1.0.0"
+browser = "1.8.0"
+
+[libraries]
+androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+androidx-activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+androidx-constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+image-labeling = { group = "com.google.mlkit", name = "image-labeling", version.ref = "imageLabeling" }
+image-labeling-common = { group = "com.google.mlkit", name = "image-labeling-common", version.ref = "imageLabelingCommon" }
+image-labeling-custom = { group = "com.google.mlkit", name = "image-labeling-custom", version.ref = "imageLabelingCustom" }
+image-labeling-custom-common = { group = "com.google.mlkit", name = "image-labeling-custom-common", version.ref = "imageLabelingCustomCommon" }
+image-labeling-default-common = { group = "com.google.mlkit", name = "image-labeling-default-common", version.ref = "imageLabelingDefaultCommon" }
+androidx-swiperefreshlayout = { group = "androidx.swiperefreshlayout", name = "swiperefreshlayout", version.ref = "swiperefreshlayout" }
+picasso-transformations = { group = "jp.wasabeef", name = "picasso-transformations", version.ref = "picassoTransformations" }
+picasso = { group = "com.squareup.picasso", name = "picasso", version.ref = "picasso" }
+okhttp3 = { group = "com.growingio.android", name = "okhttp3", version.ref = "okhttp3" }
+gson = { group = "com.google.code.gson", name = "gson", version.ref = "gson" }
+retrofit2-rxjava2-adapter = { group = "com.jakewharton.retrofit", name = "retrofit2-rxjava2-adapter", version.ref = "retrofit2Rxjava2Adapter" }
+rxandroid = { group = "io.reactivex.rxjava2", name = "rxandroid", version.ref = "rxandroid" }
+rxjava = { group = "io.reactivex.rxjava2", name = "rxjava", version.ref = "rxjava" }
+adapter-rxjava2 = { group = "com.squareup.retrofit2", name = "adapter-rxjava2", version.ref = "adapterRxjava2" }
+logging-interceptor = { group = "com.squareup.okhttp3", name = "logging-interceptor", version.ref = "loggingInterceptor" }
+androidx-lifecycle-extensions = { group = "androidx.lifecycle", name = "lifecycle-extensions", version.ref = "lifecycleExtensions" }
+retrofit = { group = "com.squareup.retrofit2", name = "retrofit", version.ref = "retrofit" }
+converter-gson = { group = "com.squareup.retrofit2", name = "converter-gson", version.ref = "converterGson" }
+shimmer = { group = "com.facebook.shimmer", name = "shimmer", version.ref = "shimmer" }
+androidx-palette = { group = "androidx.palette", name = "palette", version.ref = "palette" }
+androidx-browser = { group = "androidx.browser", name = "browser", version.ref = "browser" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+jetbrains-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+
