@@ -9,7 +9,7 @@ This Kotlin project provides an NSFW (Not Safe For Work) validator to filter out
 - Can be integrated with Android applications.
 
 ## Download
-
+ 
  [AAB](./Build/NSFWValidator.aab)
  [APK](./Build/NSFWValidator.apk)
  
@@ -18,7 +18,7 @@ This Kotlin project provides an NSFW (Not Safe For Work) validator to filter out
 | No. | Screen Shot | Description |
 |---------|---------|---------|
 | 1.   | ![Logo](./Object/qemu-system-x86_64_1ntycklYAl.png)| index layout    |
-| 2.   | ![Logo](./Object/qemu-system-x86_64_vHAb6yH4Jw.png)| Storage Permission    |
+| 2.   | ![Logo](./Object/qemu-system-x86_64_vHAb6yH4Jw.png)| Storage Permission sdk at least <= 32 version for storage permission    |
 | 3.   | ![Logo](./Object/qemu-system-x86_64_BqMZuap1JZ.png)| List of Image/Photos    |
 | 4.   | ![Logo](./Object/qemu-system-x86_64_XUzYHJ6ScI.png)| Select Image/Photos    |
 | 5.   | ![Logo](./Object/qemu-system-x86_64_1xfE9nPMKW.png)| View Image/Photos    |
